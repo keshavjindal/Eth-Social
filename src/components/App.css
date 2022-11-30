@@ -1,0 +1,84 @@
+/* Styles go here */
+
+.navbar-brand{
+	font-family: 'Lobster', cursive;
+	font-size: 1.4rem;
+}
+
+#shareSectionCard{
+	position: sticky;
+	top: 5.0rem;
+	background: transparent;
+	border: none;
+}
+
+.card-img-top{
+	height: 250px ;
+}
+
+#author{
+	font-weight: 500;
+}
+
+#account{
+	color: white;
+	font-size: 0.75rem;
+}
+
+.tips{
+	font-size: 0.9rem;
+}
+
+.posted-Content{
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 1.3rem;
+}
+
+#postsSectionCard{
+	border: none;
+}
+
+#postsSectionCard{
+	width: 90% ;
+	margin: auto;
+}
+
+.jumbotron{
+	text-align: center;
+	background-image: url(../imgs/img1.jpg); 
+	background-size: cover;
+}
+
+h4{
+	text-align: center;
+}
+
+h1{
+	text-transform: uppercase;
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	font-size: 2.5em;
+	letter-spacing: 0.2rem;
+}
+
+.jcontent{
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.32rem;
+	color: black;
+	font-weight: 700;
+}
+
+.learn-more{
+	text-transform: uppercase;
+	color: black;
+	font-family: 'Noto Sans HK', sans-serif;
+}
+
+.gridHeading{
+	font-family: 'Bebas Neue', cursive;
+	text-transform: uppercase;
+	color: black;
+	font-weight: bolder;
+	letter-spacing: 0.7rem;
+	font-size: 1.8rem;
+}
